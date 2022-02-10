@@ -7,7 +7,12 @@ use Carbon\Carbon;
 use Illuminate\Http\Request;
 
 class TaskController extends Controller
-{
+{    
+    /**
+     * display task add button
+     *
+     * @return void
+     */
     public function index()
     {
         $data = [];
@@ -24,7 +29,13 @@ class TaskController extends Controller
         
         return view('welcome',[ 'tasks' => $data ] );
     }
-
+    
+    /**
+     * insert tasks to database
+     *
+     * @param  mixed $request
+     * @return void
+     */
     public function createTask(Request $request)
     {
         $this->validate($request,[

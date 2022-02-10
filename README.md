@@ -15,3 +15,11 @@ The main feature of this Laravel 8 app is, timiezone identified according to the
 
   ``` php artisan migrate``` 
   ``` php artisan serve``` 
+
+  # screenshots
+
+  ![Add new task](public/assets/screen 01.JPG)
+
+  ![Add new task form](public/assets/screen 02.JPG)
+
+  ![display tasks](public/assets/screen 03.JPG)
