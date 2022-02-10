@@ -18,8 +18,8 @@ The main feature of this Laravel 8 app is, timiezone identified according to the
 
   # screenshots
 
-  ![Add new task](public/assets/screen 01.JPG)
+  ![Add new task](https://github.com/daskon/MetaSchool-todoapp/blob/master/public/assets/screen%2001.JPG)
 
-  ![Add new task form](public/assets/screen 02.JPG)
+  ![Add new task form](https://github.com/daskon/MetaSchool-todoapp/blob/master/public/assets/screen%2002.JPG)
 
-  ![display tasks](public/assets/screen 03.JPG)
+  ![display tasks](https://github.com/daskon/MetaSchool-todoapp/blob/master/public/assets/screen%2003.JPG)
